@@ -7,7 +7,7 @@ run_system_tests:
     - vm_windows
   script:
     - pip install -r requirements.txt
-    - python3 -m pytest -k "demo" tests/step_defs/ --alluredir ./allure-reports --junitxml=./reports/junitreport.xml
+    - python3 -m pytest tests/step_definitions/test_mitigram.py --alluredir ./allure-reports --junitxml=./reports/junitreport.xml
   after_script:
     - /allure-reports/. allure-reports
     - /reports/. junit_reports

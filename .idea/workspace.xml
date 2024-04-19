@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab004c8f-6dd8-4f28-b77e-21ba67dda7ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/0546a222-c563-430c-828b-8364018ad7bc-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/21b94d61-ab1b-42e4-8d64-c4453b1d1ab3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/2938d831-eb7e-466d-bdea-f024b1136981-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/599b2c86-a87a-4b4b-95e8-072d6ce0a244-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/59b353d9-df72-410b-9154-e3978e8f2611-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/674b7c18-217f-4bc7-9f4f-606fc2b3394e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/79c46fbe-9341-4bd2-9087-c667c2ee99ec-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/802f4912-beb6-4ea8-bcdf-35ffe0b1811b-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/a293f6f1-f068-44a1-87e0-ea0a34ab3fc3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/ad8c20b6-45b7-408b-ac7a-efad8ea35272-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/b3598f62-ef57-4582-904b-93f6dabd77f6-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/d8b7895e-2f20-4334-8551-cdb4c4bc4a34-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/d9e2cad6-21c1-4ed1-99e9-c93ca7cdbee6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/dbc773ea-9ede-43d8-b638-c90a22be0e83-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/ed151f93-6ee7-48fb-9959-5babcedae59a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-reports/f9b0523b-cde5-4bfe-a639-8363367b9717-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/junitreport.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reports/junitreport.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/screenshots/screenshot_19042024144441.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/screenshots/screenshot_19042024144453.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/screenshots/screenshot_19042024144505.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/screenshots/screenshot_19042024144517.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/screenshots/screenshot_19042024144528.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/screenshots/screenshot_19042024144540.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/screenshots/screenshot_19042024144551.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/screenshots/screenshot_19042024144603.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2fBigjU19smIdQjmQlFH5A4dF5u" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.pytest for test_goods_selection.test_goods_search.executor": "Run",
+    "Python tests.pytest for test_login.test_invalid_login.executor": "Run",
+    "Python tests.pytest for test_login.test_portal_login.executor": "Run",
+    "Python tests.pytest for test_login.test_verify_careers_page.executor": "Run",
+    "Python tests.pytest for test_mitigram.test_verify_careers_page.executor": "Run",
+    "Python tests.pytest for test_mitigram.test_verify_open_positions.executor": "Run",
+    "Python tests.pytest for tests.step_definitions.test_mitigram.test_verify_careers_page.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Dhaval/TestProject_Mitigram/support",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dhaval\TestProject_Mitigram\support" />
+      <recent name="C:\Dhaval\TestProject_Mitigram\support\driver_executables" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_mitigram.test_verify_careers_page">
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="TestProject_Mitigram" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\dhaval.jethava\AppData\Local\Programs\Python\Python312\python.exe" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_mitigram.test_verify_careers_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TestProject_Mitigram" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\dhaval.jethava\AppData\Local\Programs\Python\Python312\python.exe" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_mitigram.test_verify_careers_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_mitigram.test_verify_open_positions" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TestProject_Mitigram" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\dhaval.jethava\AppData\Local\Programs\Python\Python312\python.exe" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_mitigram.test_verify_open_positions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.step_definitions.test_mitigram.test_invalid_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TestProject_Mitigram" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.step_definitions.test_mitigram.test_invalid_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.step_definitions.test_mitigram.test_verify_careers_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TestProject_Mitigram" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.step_definitions.test_mitigram.test_verify_careers_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_mitigram.test_verify_careers_page" />
+      <item itemvalue="Python tests.pytest for test_mitigram.test_verify_open_positions" />
+      <item itemvalue="Python tests.pytest for tests.step_definitions.test_mitigram.test_invalid_login" />
+      <item itemvalue="Python tests.pytest for tests.step_definitions.test_mitigram.test_verify_careers_page" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_mitigram.test_verify_careers_page" />
+        <item itemvalue="Python tests.pytest for test_mitigram.test_verify_open_positions" />
+        <item itemvalue="Python tests.pytest for tests.step_definitions.test_mitigram.test_verify_careers_page" />
+        <item itemvalue="Python tests.pytest for tests.step_definitions.test_mitigram.test_invalid_login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab004c8f-6dd8-4f28-b77e-21ba67dda7ec" name="Changes" comment="" />
+      <created>1713280984940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713280984940</updated>
+    </task>
+    <servers />
+  </component>
+</project>
