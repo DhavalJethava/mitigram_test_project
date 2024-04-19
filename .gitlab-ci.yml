@@ -1,0 +1,19 @@
+stages:
+  - systemtest
+
+run_system_tests:
+  stage: systemtest
+  tags:
+    - vm_windows
+  script:
+    - pip install -r requirements.txt
+    - python3 -m pytest -k "demo" tests/step_defs/ --alluredir ./allure-reports --junitxml=./reports/junitreport.xml
+  after_script:
+    - /allure-reports/. allure-reports
+    - /reports/. junit_reports
+  artifacts:
+    when: always
+    paths:
+      - "allure-reports/*"
+      - "junit_reports/*"
+

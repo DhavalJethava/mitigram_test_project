@@ -1,0 +1,7 @@
+project_name: 'mitigram_test'
+app_type: 'web'
+web_browser: 'chrome'
+default_explicit_wait: 15
+default_implicit_wait: 15
+logfile_path: 'application.log'
+website_url: 'https://www.mitigram.com'
